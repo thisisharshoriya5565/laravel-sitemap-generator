@@ -9,6 +9,14 @@ php artisan vendor:publish --provider="Vendor\LaravelSitemap\LaravelSitemapServi
 ```
 
 ---
+Contribution
+  - Fork the repo
+  - Submit pull requests with descriptive commit messages
+  - Follow PSR‑12 coding style
+  - Run tests before submitting
+
+License
+MIT © Bhanu Pratap Soni
 
 ###  Why This Works
 
@@ -19,6 +27,7 @@ php artisan vendor:publish --provider="Vendor\LaravelSitemap\LaravelSitemapServi
 
 Would you like me to draft files like `README.md`, `.gitignore`, or even the initial `composer.json` for the Git repo?
 ::contentReference[oaicite:4]{index=4}
+
 
 
 
