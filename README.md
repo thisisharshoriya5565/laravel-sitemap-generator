@@ -3,6 +3,17 @@ A lightweight Laravel package for dynamically generating XML sitemaps.**
 
 ## Installation
 
+### 👉 Step-by-step:
+Add path repository to your Laravel app's composer.json:
+```json
+"repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/thisisharshoriya5565/laravel-sitemap-generator"
+    }
+]
+
+
 ```bash
 composer require thisisharshoriya5565/laravel-sitemap-generator
 php artisan vendor:publish --provider="Vendor\LaravelSitemap\LaravelSitemapServiceProvider" --tag="config"
@@ -66,6 +77,7 @@ MIT © Bhanu Pratap Soni
 
 Would you like me to draft files like `README.md`, `.gitignore`, or even the initial `composer.json` for the Git repo?
 ::contentReference[oaicite:4]{index=4}
+
 
 
 
